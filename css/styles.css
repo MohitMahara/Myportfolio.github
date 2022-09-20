@@ -1,0 +1,233 @@
+
+
+body{
+    height: 100%;
+    margin: 0px;
+    text-align: center;
+    font-family:'Merriweather',serif;
+    background-color:#92B4EC;
+
+}
+.programmer{
+    font-size: 2.5rem;
+    margin-top: 0px;
+    color: #293462;
+    font-weight:normal
+}
+
+.top-container{
+   background-color: #92B4EC;
+    position: relative;
+    padding: 100px;
+}
+.pro{
+    text-decoration: underline;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+}
+.Name{
+    
+    font-family: 'Sacramento',cursive;
+    font-size:5.625rem;;
+    margin-bottom:20px;
+    top:50px;
+    left: auto;
+    right: auto;
+    line-height:1.5;
+    color:#000D6B;
+    
+}
+
+.top-cloud{
+   position: absolute;
+   right: 300px;
+   top: 60px;
+}
+.mountain{
+    position:absolute;
+    right: 350px;
+    top: 440px;
+
+}
+.image{
+    height: 200px;
+    margin-top: 20px;
+}
+
+.skill-image{
+width: 25%;
+float: left;
+margin-right: 30px;
+}
+.computer{
+line-height: 4;
+ width: 25%;
+ float: right;
+  margin-left: 40px; 
+
+}
+
+.instagram{
+    height: 20px;
+    position: absolute;
+    left: 35%;
+}
+.twitter{
+    height: 20px;
+    position: absolute;
+    left: 45%;
+}
+.email{
+    height: 20px;
+    position: absolute;
+left: 56%;
+
+}
+.design{
+    line-height: 2;
+    text-align: left;
+    color: #66BFBF;
+    
+}
+.paragraph{
+    text-align: left;
+    font-size: 15px;
+   
+}
+
+.middle-container{
+    margin-top: 300px;
+    background-color:#D2DAFF;
+}
+
+
+h2{
+    font-weight: normal;
+    color: #66BFBF;
+    
+}
+h3{
+    color: #66BFBF;
+    
+}
+.footer-link
+{
+    color: black;
+    margin-right: 40px;
+    margin-left:30px;
+    text-decoration: none;
+    
+}
+a:hover{
+    color:#EAF6F6;
+}
+.second-skill{
+    line-height: 4;
+    text-align: left;
+
+}
+.second-para{
+line-height: 2;
+    text-align: left;
+   
+}
+
+
+.skill-row{
+width: 50%;
+margin-left: auto;
+margin-right: auto;
+margin-top: 100px;
+margin-bottom: 100px;
+}
+        .btn {
+           line-height: 8;
+            background: #3498db;
+            background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+            background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+            background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+            background-image: -o-linear-gradient(top, #3498db, #2980b9);
+            background-image: linear-gradient(to bottom, #3498db, #2980b9);
+            -webkit-border-radius: 28;
+            -moz-border-radius: 28;
+            border-radius: 28px;
+            font-family: Arial;
+            color: white;
+            font-size: 20px;
+            padding: 10px 20px 10px 20px;
+            text-decoration: none;
+          }
+          
+          .btn:hover {
+            background: #3cb0fd;
+            background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+            background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+            background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+            background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+            background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+            text-decoration: none;
+          }
+
+
+
+.bottom-container{
+    background-color: #66BFBF;
+    padding-top: 40px;
+    
+}
+hr{
+    color: grey;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 8px;
+    width: 5%;
+left: auto;
+right: auto;
+top: 5px;
+bottom: 5px;
+}
+
+.h2{
+    line-height: 4;
+    font-size: 35px;
+}
+.my-skills{
+    line-height: 4;
+}
+.paragraph-2{
+    width: 30%;
+    margin: auto;
+}
+.hello{
+    font-size: 40px;
+}
+.my-skills{
+    font-size: 40px;
+}
+.horizental{
+    color: grey;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 8px;
+    width: 5%;
+    left: auto;
+right: auto;
+margin-top: 70px;
+margin-bottom: 5px;
+}
+.end{
+    margin-bottom: 0px;
+}
+.contact{
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    top: 10px;
+    bottom: 10px;
+}
+.end{
+    font-size:0.75rem;
+    padding: 20px;
+}
